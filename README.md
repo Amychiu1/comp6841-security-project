@@ -1,6 +1,6 @@
 # COMP6841 Security Engineering Project — En-Mei Chiu (z5727209)
 
-Supplementary code, screenshots, and reports for my Security Engineering project.
+Supplementary code and reports for my Security Engineering project.
 The final PDF report references the folders below as evidence for each stage of testing.
 
 ## Structure
@@ -26,7 +26,6 @@ reports/                          Draft Word reports for each component
 
 Each numbered/named subfolder contains:
 - The source code (`.c` / `.py`) and build script used at that layer
-- A `screenshots/` folder with the terminal/browser evidence for that layer
 
 ## Course
 
